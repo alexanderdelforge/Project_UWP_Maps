@@ -26,7 +26,8 @@
         <PivotItem Header="Create Account" Background="White">
             <ScrollViewer HorizontalScrollBarVisibility="Auto">
                 <StackPanel VerticalAlignment="Center">
-                    <TextBlock Text="Name :"
+                    <TextBlock Text="Name : "
+                               
                            Margin="0,10,0,10"/>
                     <TextBox Margin="0,10,0,10"
                          x:Name="textboxNameRegister"/>

@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>987a20c8-7464-473f-a6c5-f8e19c9b14fb</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\obj\ARM\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\bin\ARM\Debug\AppMaps.exe">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\bin\ARM\Debug\AppMaps.exe">
       <PackagePath>entrypoint\AppMaps.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Alexander\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -342,49 +342,49 @@
     <AppxPackagedFile Include="C:\Users\Alexander\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\bin\ARM\Debug\AppMaps.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\bin\ARM\Debug\AppMaps.xr.xml">
       <PackagePath>AppMaps.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Alexander\documents\visual studio 2015\Projects\AppMaps\AppMaps\bin\ARM\Debug\Core\AppMaps.exe">
+    <AppxPackagedFile Include="C:\Users\Alexander\Documents\GitHub\Project_UWP_Maps\AppMaps\bin\ARM\Debug\Core\AppMaps.exe">
       <PackagePath>AppMaps.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
